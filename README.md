@@ -1,4 +1,4 @@
-![seth](https://user-images.githubusercontent.com/108028311/187080997-70f90de6-28f9-49a4-820a-15c4d9d655ce.jpg) Settings
+![](https://user-images.githubusercontent.com/108028311/187080997-70f90de6-28f9-49a4-820a-15c4d9d655ce.jpg) [Settings](https://github.com/erikenicole-20132017/erikenicole-20132017/blob/main/Erik/SETTINGS.md)
 
 # Erik Docs
 Help for Erik Operating System
