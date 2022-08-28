@@ -20,6 +20,6 @@ git branch -M main
 git push -u origin main
 ```
 
-Browse through the many documents in this help center.
+Browse through the many documents in this help center. [Go to documents.](https://github.com/erikenicole-20132017/Erik-Docs/tree/main/Documents)
 
 A message for Erik? [Click here!](mailto:erikngresi1@outlook.it)
